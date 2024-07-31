@@ -1,4 +1,5 @@
 a= 10
 b=30
 c=a*b
-d=c+b*a
+d=2
+e=a+b+c*d
